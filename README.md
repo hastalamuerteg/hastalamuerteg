@@ -39,7 +39,7 @@
 <a href="https://witty-flashcards.netlify.app/">Click here!</a>
 
 
-![hastalamuerteg Status](https://github-readme-stats.vercel.app/api?username=hastalamuerteg&theme=radical&show_icons=true)
+![hastalamuerteg Status](https://github-readme-stats.vercel.app/api?username=hastalamuerteg&theme=buefy&show_icons=true)
 
 ##### Get in touch
 <a href="https://www.linkedin.com/in/gabriel--vicente/">
