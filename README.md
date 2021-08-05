@@ -1,6 +1,6 @@
 # Hi, I'm Gabriel 🤖
 
-<img width="150px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fbr%2Fvetor%2Fjanela-de-aplica%25C3%25A7%25C3%25A3o-de-c%25C3%25B3digo-de-programa%25C3%25A7%25C3%25A3o-gm1124838925-295459706&psig=AOvVaw0TPbwO_Kvk4odDtdZ9-4zg&ust=1628249008851000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJjIz7XimfICFQAAAAAdAAAAABAK"/> 
+<img width="150px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.elegantthemes.com%2Fblog%2Fresources%2Fbest-code-editors&psig=AOvVaw0ifWTnD9rGO8WSpZuGmU1g&ust=1628249131335000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODit-_imfICFQAAAAAdAAAAABAD"/> 
 
 **Currently working as a frontend developer at The Brooklyn Brothers** 
 
