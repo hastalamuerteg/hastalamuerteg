@@ -1,11 +1,11 @@
-# Hi, I'm Gabriel 🤖
+# Hi, I'm Gabriel 👻
 
-<img width="150px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.elegantthemes.com%2Fblog%2Fresources%2Fbest-code-editors&psig=AOvVaw0ifWTnD9rGO8WSpZuGmU1g&ust=1628249131335000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODit-_imfICFQAAAAAdAAAAABAD"/> 
+<img width="300px"  src="https://www.cerebro.fit/uploads/thumbnails/course_thumbnails/course_thumbnail_default_70.jpg"/> 
 
 **Currently working as a frontend developer at The Brooklyn Brothers** 
 
 
-## Technologies
+## Technologies 🧰🧰
 
 ![HTML5](https://img.shields.io/badge/HTML5-red?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
@@ -17,7 +17,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=Linux)
 
 
-## Learning
+## Learning ✍✍
 
 ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=React)
 ![Next](https://img.shields.io/badge/-Next-black?style=flat&logo=Next)
@@ -25,7 +25,7 @@
 ![StyledComponents](https://img.shields.io/badge/-StyledComponents-purple?style=flat&logo=StyledComponents)
 
 
-## Had contact with
+## Had contact with 👜👜
 ![CSharp](https://img.shields.io/badge/-CSharp-blue?style=flat&logo=CSharp)
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat&logo=Python)
 ![JQuery](https://img.shields.io/badge/-JQuery-lightblue?style=flat&logo=JQuery)
@@ -39,7 +39,7 @@
 <a href="https://witty-flashcards.netlify.app/">Click here!</a>
 
 
-![hastalamuerteg Status](https://github-readme-stats.vercel.app/api?username=hastalamuerteg&theme=buefy&show_icons=true)
+![hastalamuerteg Status](https://github-readme-stats.vercel.app/api?username=hastalamuerteg&theme=jolly&show_icons=true)
 
 ##### Get in touch
 <a href="https://www.linkedin.com/in/gabriel--vicente/">
