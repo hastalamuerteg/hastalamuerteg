@@ -22,29 +22,29 @@
 
 ## Online Portfolio
 
-<a href="https://gabriel-vicente-dev.vercel.app/">Click here!</a>
+<a rel="noreferrer" target="_blank" href="https://gabriel-vicente-dev.vercel.app/">Click here!</a>
 
 
 ## Recent Projects
 
 ### Mates - Next.js
-<a href="https://mates.vercel.app/">Click here!</a>
+<a rel="noreferrer" target="_blank" href="https://mates.vercel.app/">Click here!</a>
 
 ### Witty Flashcards - React.js
-<a href="https://witty-flashcards.netlify.app/">Click here!</a>
+<a rel="noreferrer" target="_blank" href="https://witty-flashcards.netlify.app/">Click here!</a>
 
 ### Spiderman - SASS
-<a href="https://hastalamuerteg.github.io/spider-man/">Click here!</a>
+<a rel="noreferrer" target="_blank" href="https://hastalamuerteg.github.io/spider-man/">Click here!</a>
 
 
 
 ![hastalamuerteg Status](https://github-readme-stats.vercel.app/api?username=hastalamuerteg&theme=default&show_icons=true)
 
 ##### Get in touch
-<a href="https://www.linkedin.com/in/gabriel--vicente/">
+<a rel="noreferrer" target="_blank" href="https://www.linkedin.com/in/gabriel--vicente/">
   <img align="left" alt="gabriel's LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/hastalamuerteg">
+<a rel="noreferrer" target="_blank" href="https://github.com/hastalamuerteg">
   <img align="left" alt="gabriel's github" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
