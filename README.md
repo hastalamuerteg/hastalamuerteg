@@ -12,12 +12,16 @@
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat&logo=javascript) ![Typescript](https://img.shields.io/badge/-Typescript-blue?style=flat&logo=Typescript)
 - ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=React) ![Next](https://img.shields.io/badge/-Nextjs-blue?style=flat&logo=Next)
 - ![Git](https://img.shields.io/badge/-Git-blue?style=flat&logo=Git) ![Linux](https://img.shields.io/badge/-Linux-blue?style=flat&logo=Linux)
-
+- ![MaterialUI](https://img.shields.io/badge/-MaterialUI-blue?style=flat&logo=MaterialUI)
+- ![StyledComponents](https://img.shields.io/badge/-StyledComponents-blue?style=flat&logo=StyledComponents)
+- ![Storybook](https://img.shields.io/badge/-Storybook-blue?style=flat&logo=Storybook)
 
 ## Learning 📘📘
-- ![Nodejs](https://img.shields.io/badge/-Nodejs-blue?style=flat&logo=nodejs) ![Gatsby](https://img.shields.io/badge/-Gatsby-blue?style=flat&logo=Gatsby)
-- ![StyledComponents](https://img.shields.io/badge/-StyledComponents-blue?style=flat&logo=StyledComponents)
-- ![MaterialUI](https://img.shields.io/badge/-MaterialUI-blue?style=flat&logo=MaterialUI)
+- ![Nodejs](https://img.shields.io/badge/-Nodejs-blue?style=flat&logo=nodejs)
+- ![Gatsby](https://img.shields.io/badge/-Gatsby-blue?style=flat&logo=Gatsby)
+- ![Jest](https://img.shields.io/badge/-Jest-blue?style=flat&logo=Jest)
+
+
 
 
 ## Online Portfolio
